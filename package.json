@@ -1,10 +1,10 @@
 {
   "name": "e14-comparator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.3.0",
+  "description": "Detecta duplicados PDF con hashes inconsistentes en el nombre",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/run.js"
   },
   "repository": {
     "type": "git",
